@@ -92,3 +92,8 @@ seed_examples:
           What was the first MP3 player developed in 1998?
         answer: | 
           The first MP3 player developed in 1998 was the MPMan ®, which could only hold about 6 songs worth of music.
+document:
+  repo: https://github.com/hello-txie/ext-ai
+  commit: f7e9c30a3262b923b2df81ac29b8677c0c733a85
+  patterns:
+    - "markdown/muscians.md"
