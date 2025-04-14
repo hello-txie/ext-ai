@@ -3,3 +3,92 @@ domain: American Pop Music
 created_by: tola-tom
 document_outline: |
   The history and evolution of Pop music in the United States between 1960 and 2010. 
+seed_examples: 
+  - context: | 
+      over the past 100 years or so, american popular music has gained acceptance at home and abroad. It has become the music that many, especially the young and young at heart, listen to virtually all of the time. In the United states, the vast array of popular music forms are aired by more than 90 percent of all radio stations. Internationally, both american versions of popular songs and versions in native tongues permeate the air waves. Indeed, many american artists enjoy prolonged careers by marketing themselves in other countries well after their popularity has waned in the United states. The unique musical forms that will be discussed in this book have definitely found a niche for themselves in our modern cultures and will continue to be important parts of our lives for decades to come.
+
+      The roots of american popular music lie in both the folk music that was brought over the atlantic and across america by the settlers of the seventeenth and eighteenth centuries, and in the musical heritage of the african-american culture. In order to understand and appreciate the music that is popular today, it is necessary to recognize and value the contributions of those musicians who have helped pave the way for a new century of music.
+
+      This workbook is designed to assist the student in discovering the foundation of the music he or she listens to today and to gain an appreciation for america's musical heritage.
+    questions_and_answers: 
+      - question: | 
+          What are the roots of the American popular music?
+        answer: | 
+          The roots of American popular music originated from American settlers, people from across the Atlantic, and African-American culture.
+      - question: |
+          Who listens to American popular music?
+        answer: |
+          People of all ages, especially the young and young at heart, listen to American popular music virtually all of the time.
+      - question: |   
+          How has American popular music gained acceptance?
+        answer: |
+          American popular music has gained acceptance at home and abroad, becoming the music that many listen to all of the time.
+  - context: |
+      since the big band swing era of the 1930s and 40s, there had not been a style of music that had been designed specifically for dancing. While rock-and-roll tunes incorporated moves such as 'the twist' and 'the swim,' many of the dance styles that were used for rock songs, especially early rock, appeared to observers to be just a bunch of bodies wiggling around out on the dance floor. rarely, except in slow songs, did the dancers actually dance as a couple as they had in the years of the swing era, where they took  the  standard  dance  position  that  evolved
+      from dance styles of the eighteenth and nineteenth centuries. In the early 1970s, the combination of hard rock, with its driving bass and drum figures, and soul music resulted in a new form called funk. The main characteristic of funk music is that the bass line and complex rhythms in the drums combine to give the music a sense of forward motion while keeping the harmonies very simple and nearly motionless. This style evolved into a style that was specifically designed to be danced to, and it became known as disco. Disco was much smoother sounding than funk, with a less dominant bass line and smoother rhythms that made it very danceable. Established steps or moves were created for both professional and amateur dancers. Disco gained an immense amount of popularity through the movie Saturday Night Fever in 1977.
+    questions_and_answers:  
+      - question: | 
+          What was the main characteristic of funk music?
+        answer: | 
+          The main characteristic of funk music is that the bass line and complex rhythms in the drums combine to give the music a sense of forward motion while keeping the harmonies very simple and nearly motionless.
+      - question: |
+          What was disco designed for?
+        answer: |
+          Disco was specifically designed to be danced to, with established steps or moves created for both professional and amateur dancers.
+      - question: |   
+          How did disco gain popularity?
+        answer: |
+          Disco gained immense popularity through the movie Saturday Night Fever in 1977.
+  - context: |  
+      For centuries man has studied himself and others to determine why he does the things he does. Today,  the  term  that  describes  this  type  of  selfstudy and the study of others is termed psychology. Professional psychology developed throughout the twentieth  century  and  has  become  an  extremely important tool in determining how to improve work and business environments.
+      one of the things psychologists discovered was that music played at a certain level in a certain style  with  the  right  combination  of timbres or tone colors helped  people  to  relax  and  feel  good  about  where they  were.  Likewise,  other  studies  have  indicated  that the combination of the elements of music, including
+      rhythm, volume, timbre, melody, and harmony, can affect the listener and cause him or her to act in a certain way based on these combinations.
+    questions_and_answers: 
+      - question: | 
+          What is the term that describes the study of oneself and others?
+        answer: | 
+          The term that describes this type of self-study and the study of others is psychology.
+      - question: |
+          How did psychologists use music in their studies?
+        answer: |
+          Psychologists discovered that music played at a certain level in a certain style with the right combination of timbres or tone colors helped people to relax and feel good about where they were.
+      - question: |   
+          What elements of music can affect the listener?
+        answer: |
+          The elements of music that can affect the listener include rhythm, volume, timbre, melody, and harmony. 
+  - context: |
+      Imagine carrying a cassette tape player and two speakers-all combined into one large unit called a boom box-on your shoulder while you walked around your neighborhood. as silly as that sounds, that was the fad in the late 1970s for 'serious' popular music listeners. It was not uncommon to see someone with this unit on their shoulder 'dancin' and groovin'' to their tunes. 
+      Unfortunately, the listener would have to either stop and change the batteries or the tape to continue listening or change their 'playlist.' If only they could get the benefits of speaker quality sound and longer sets of music.
+      In 1979, the sony company solved part of the problem by putting the cassette tape into a compact player unit called a Walkman ® that used stereo-quality headphones instead of small loudspeakers. The Walkman ® could easily be held in one hand and was about 6 inches long by 3 inches wide by 1 inches thick. This made the portability of the music much easier and the s sound quality much better.
+    questions_and_answers: 
+      - question: | 
+          What was the fad in the late 1970s for 'serious' popular music listeners?
+        answer: | 
+          The fad was carrying a cassette tape player and two speakers, combined into one large unit called a boom box, on their shoulder while walking around the neighborhood.
+      - question: |
+          What did the sony company create in 1979?
+        answer: |
+          The sony company created a compact player unit called a Walkman ® that used stereo-quality headphones instead of small loudspeakers.
+      - question: |
+          What was the size of the Walkman ®?
+        answer: | 
+          The Walkman ® was about 6 inches long by 3 inches wide by 1 inch thick.
+  - context: |
+      a few years later, in 1982, the first digital music format was introduced in the form of compact discs (CDs). This format allowed for much higher quality of sound as well as larger capacity for storage. The first CD players, however, were similar to the earlier cassette tape boom boxes.
+
+      In 1984, sony reconfigured their Walkman ®  portable sound unit so it could play CDs instead of cassette tapes and called it the Discman ® . These portable digital devices and the CD format continued in popularity and high consumer usage until 1998, when the first MP3 player was developed in south korea and introduced as the MPMan ® . The only problem was that it could only hold about 6 songs worth of music. However, within a few short years, technology was developed and improved and the first iPod ®  by apple was introduced in 2001. It could hold 5 Gb (gigabytes) of music, or about 1,000 songs.
+
+      since 2001, greater developments have occurred in the technology of these digital devices including the ability to store, record, and playback more than 100 Gb of media; the addition of video to the types of media the devices are capable of storing and playing; and the combination of all these media with cell phones into a single unit. In 2007, apple introduced the iPhone ® , a touch screen cellular device that enables you to do almost everything for which you usually use the computer-all in one slim handheld device. other MP3 players and digital devices include the Zune ® , sanDisk ® , sony Walkman ®  (same name only now an MP3 player!), samsung P3 ® , and many, many others.
+    questions_and_answers:
+      - question: | 
+          What was the first digital music format introduced in 1982?
+        answer: | 
+          The first digital music format introduced in 1982 was compact discs (CDs).
+      - question: |
+          What was the name of the portable sound unit created by sony in 1984?
+        answer: | 
+          The portable sound unit created by sony in 1984 was called the Discman ®.
+      - question: |
+          What was the first MP3 player developed in 1998?
+        answer: | 
+          The first MP3 player developed in 1998 was the MPMan ®, which could only hold about 6 songs worth of music.
